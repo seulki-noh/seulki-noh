@@ -52,5 +52,5 @@ With a background in **Psychology (B.S.)** and **Human Factors (M.S.)**, I don't
 <br>
 
 ### 📫 Connect with me
-- **LinkedIn**: [linkedin.com/in/seulki-noh](https://linkedin.com/seulki-noh)
+- **LinkedIn**: [linkedin.com/in/seulki-noh1](https://linkedin.com/seulki-noh1)
 - **Email**: [noh.seulki1@gmail.com](mailto:noh.seulki1@gmail.com)
