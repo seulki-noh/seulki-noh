@@ -21,6 +21,7 @@ With a background in **Psychology (B.S.)** and **Human Factors (M.S.)**, I don't
 <br>
 
 ### 🛠 Languages & Tools
+### 🛠 Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -30,6 +31,11 @@ With a background in **Psychology (B.S.)** and **Human Factors (M.S.)**, I don't
   
   <br> 
   
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+
+  <br>
+
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -47,5 +53,5 @@ With a background in **Psychology (B.S.)** and **Human Factors (M.S.)**, I don't
 <br>
 
 ### 📫 Connect with me
-- **LinkedIn**: [linkedin.com/in/본인아이디](https://linkedin.com/)
-- **Email**: [본인이메일@gmail.com](mailto:본인이메일@gmail.com)
+- **LinkedIn**: [linkedin.com/in/seulki-noh](https://linkedin.com/seulki-noh)
+- **Email**: [noh.seulki1@gmail.com](mailto:noh.seulki1@gmail.com)
