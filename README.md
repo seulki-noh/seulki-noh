@@ -10,7 +10,7 @@
 <br>
 
 ### 🚀 About Me
-I specialize in bridging the gap between **Human Psychology** and **Data Science**.
+I specialize in bridging the gap between **Psychology** and **Data Science**.
 With a background in **Psychology (B.S.)** and **Human Factors (M.S.)**, I don't just look at numbers; I interpret the *human intent* behind the data.
 
 - 🔭 I specialize in: **Predictive Behavioral Analysis (Verhaltensanalyse)** based on Human Factors.
@@ -20,7 +20,6 @@ With a background in **Psychology (B.S.)** and **Human Factors (M.S.)**, I don't
 
 <br>
 
-### 🛠 Languages & Tools
 ### 🛠 Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
