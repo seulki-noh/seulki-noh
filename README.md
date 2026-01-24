@@ -45,7 +45,7 @@ With a background in **Psychology (B.S.)** and **Human Factors (M.S.)**, I don't
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=seulki-noh&show_icons=true&theme=radical" alt="Seulki's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seulki-noh&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seulki-noh&layout=compact&theme=radical&langs_count=10&hide=jupyter%20notebook" alt="Top Languages" height="180"/>
 </p>
 
 <br>
