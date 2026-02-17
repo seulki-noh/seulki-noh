@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Seulki 👋</h1>
-<h3 align="center">Data Scientist | Human Factors Researcher</h3>
+<h3 align="center">Data Analyst | Human Factors Researcher</h3>
 
 <p align="center">
   Running predictive analysis on human behavior using Python & Machine Learning.
